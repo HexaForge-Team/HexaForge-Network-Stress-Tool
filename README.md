@@ -1,4 +1,4 @@
- 
+ ![Screenshot](https://i.imgur.com/GQ0derk.jpeg)
 
 # HexaForge Network Stresser & Booter – Network Testing Utility
 
@@ -31,8 +31,6 @@ Ideal for users who need fast and simple control over how their connection behav
 🔐 File format: .rar  
 🔑 Password: hexaforge  
 📎 Note: The file is password-protected to ensure safe and uninterrupted transfer via Google Drive.
-
-💬 Join our community: https://t.me/HexaForgeTools
  
  https://www.youtube.com/watch?v=6vaQUYeBflk
 
